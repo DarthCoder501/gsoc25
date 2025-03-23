@@ -131,7 +131,7 @@ def main():
     }
     
     # Print metrics
-    print("\nStandard LSTM Metrics:", metrics_lstm)
+    print("\Non-Optimized LSTM Metrics:", metrics_lstm)
     print("Optimized LSTM Metrics:", metrics_opt)
     
     # Plot validation loss comparison
